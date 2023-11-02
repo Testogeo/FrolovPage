@@ -5,7 +5,7 @@
 #### Контактные данные
 
 * Телефон: +7993202ХХХХ
-* Email: Fr.mikle@ya.ru
+* E-mail: Fr.mikle@ya.ru
 #### Узнать при встрече!
 
-<image src="https://disk.yandex.ru/i/2H8lbl39o35ggg" alt="Счастлив познакомиться!">
+![аватар нов, (1)](https://github.com/Testogeo/FrolovPage/assets/149481981/7171e7f5-6043-451b-8e27-0e4641b486f6)
