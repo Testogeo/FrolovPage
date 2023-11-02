@@ -7,4 +7,5 @@
 * Телефон: +7993202ХХХХ
 * Email: Fr.mikle@ya.ru
 #### Узнать при встрече!
-![](https://disk.yandex.ru/i/2H8lbl39o35ggg "Рад знакомству!")
+
+<image src="https://disk.yandex.ru/i/2H8lbl39o35ggg" alt="Рад знакомтву!">
