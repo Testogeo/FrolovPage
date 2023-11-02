@@ -8,4 +8,4 @@
 * Email: Fr.mikle@ya.ru
 #### Узнать при встрече!
 
-<image src="https://disk.yandex.ru/i/2H8lbl39o35ggg" alt="Рад знакомтву!">
+<image src="https://disk.yandex.ru/i/2H8lbl39o35ggg" alt="Счастлив познакомиться!">
